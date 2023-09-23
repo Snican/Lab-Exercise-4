@@ -1,0 +1,6 @@
+database name: codeigniter4
+database table name: users
+database columns: 
+	id [INT] AUTO_INCREMENT
+	username [VARCHAR] 250
+	email [VARCHAR] 250
